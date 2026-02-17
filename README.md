@@ -1,4 +1,25 @@
-# FastAPI
+## Mastering APIs : Design Production Grade Applications 
+
+## Important Topics and Concepts
+
+
+## Projects
+
+| Sr. No. | Project Name | Description | Link |
+|-------|----------|----------|--------|
+| 
+
+
+## Books & Blogs To Read
+| Book Name | Link |
+| ----| ------|
+
+
+
+
+
+
+## FastAPI
 
 - Official Doc: https://fastapi.tiangolo.com/
 
