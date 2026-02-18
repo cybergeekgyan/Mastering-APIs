@@ -18,16 +18,12 @@ This repository contains **35 real-world API projects** designed to match the ex
 
 at top companies like **Google, Meta, Amazon, OpenAI, Netflix, and Stripe**.
 
----
-
 ## 🧰 Tech Stack
 
 - [API & Backend](): `FastAPI, gRPC, OpenAPI, PostgreSQL, Redis`
 - [ML & AI](): `Python, PyTorch, MLflow, Feast, Vector databases(Pinecone, Chroma), ElasticSearch`
 - [Infrastructure](): `Docker, Kubernetes, API Gateways, Kafka`
 - [Observability & Monitoring](): `Prometheus, Grafana, Kibana, OpenTelemetry`
-
----
 
 ## 🔵 Visual Skill Progression Map
 
@@ -84,8 +80,6 @@ SENIOR / STAFF
 | 14 | LLM Chat & Tool-Calling API | AI assistant API with streaming responses, embeddings, and tool/function calls. | Advanced | TBD |
 | 15 | Multi-Tenant ML Platform API | Enterprise-grade ML platform API with projects, models, datasets, RBAC, and usage tracking. | Advanced (Capstone) | TBD |
 
----
-
 # Advanced AI, LLM & Agent Projects
 
 | Sr. No. | Project Name | Description | Level | Link | Project Status |
@@ -124,7 +118,6 @@ SENIOR / STAFF
 | Designing Data-Intensive Applications – Martin Kleppmann | https://dataintensive.net/ |
 | System Design Interview – Alex Xu | https://bytebytego.com/ |
 
----
 
 ### 👉 Blogs & Engineering Guides
 
@@ -138,8 +131,6 @@ SENIOR / STAFF
 | AWS Architecture Blog | https://aws.amazon.com/blogs/architecture/ |
 | Google Cloud Blog (Architecture & ML) | https://cloud.google.com/blog |
 
----
-
 ### 🟨 Courses
 
 | Course Name | Link |
@@ -149,8 +140,6 @@ SENIOR / STAFF
 | System Design Course (ByteByteGo) | https://bytebytego.com/ |
 | Microservices with Kubernetes (KodeKloud) | https://kodekloud.com/courses/microservices-with-kubernetes/ |
 | Postman API Fundamentals | https://academy.postman.com/ |
-
----
 
 ### 🔴 YouTube Channels & Lecture Series
 
