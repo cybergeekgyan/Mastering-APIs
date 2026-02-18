@@ -20,6 +20,15 @@ at top companies like **Google, Meta, Amazon, OpenAI, Netflix, and Stripe**.
 
 ---
 
+## 🧰 Tech Stack
+
+- [API & Backend](): `FastAPI, gRPC, OpenAPI, PostgreSQL, Redis`
+- [ML & AI](): `Python, PyTorch, MLflow, Feast, Vector databases(Pinecone, Chroma), ElasticSearch`
+- [Infrastructure](): `Docker, Kubernetes, API Gateways, Kafka`
+- [Observability & Monitoring](): `Prometheus, Grafana, Kibana, OpenTelemetry`
+
+---
+
 ## 🔵 Visual Skill Progression Map
 
 ```
@@ -152,48 +161,17 @@ SENIOR / STAFF
 | Hussein Nasser (Backend Engineering) | https://www.youtube.com/c/HusseinNasser-software-engineering |
 | TechWorld with Nana | https://www.youtube.com/c/TechWorldwithNana |
 
-# 🧰 Tech Stack Covered
-
-### API & Backend
-- FastAPI
-- gRPC
-- OpenAPI
-- PostgreSQL
-- Redis
-
-### ML & AI
-- PyTorch
-- MLflow
-- Feast
-- Vector databases
-
-### Infrastructure
-- Docker
-- Kubernetes
-- API Gateways
-- Kafka
-
-### Observability
-- Prometheus
-- Grafana
-- OpenTelemetry
-
----
-
-# End Goal
+## 🥅 End Goal
 
 By completing this repository, you will be able to:
 
-- Design production ML inference APIs
-- Build feature stores and model registries
-- Design LLM and agent platforms
-- Handle high-scale AI systems
-- Pass senior-level system design interviews
+- `Design production ML inference APIs`
+- `Build feature stores and model registries`
+- `Design LLM and agent platforms`
+- `Handle high-scale AI systems`
+- `Pass senior-level system design interviews`
 
 ---
-
-# License
-MIT License
 
 
 ## FastAPI
