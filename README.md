@@ -79,6 +79,8 @@ SENIOR / STAFF
 
 # Advanced AI, LLM & Agent Projects
 
+| Sr. No. | Project Name | Description | Level | Link | Project Status |
+|---------|--------------|-------------|-------|------| -----| 
 | 16 | RAG (Retrieval-Augmented Generation) API | Production-grade RAG API with document ingestion, embeddings, vector search, and answer generation. | Advanced | TBD |
 | 17 | Semantic Search API | High-performance semantic search service using multiple embedding models and vector databases. | Intermediate–Advanced | TBD |
 | 18 | Multi-Model Inference Router API | API that dynamically routes requests to different models based on cost, latency, or accuracy. | Advanced | TBD |
